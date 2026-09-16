@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="00. MainGame">
+      <UniqueIdentifier>{66f5e342-278e-4fa6-be63-44e476319036}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj">
+      <UniqueIdentifier>{7f9bef8e-c04b-4360-b291-7b96daf01bb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\00. Player">
+      <UniqueIdentifier>{5949e66f-bebe-4811-b60c-f1e89f5b4074}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\01.Scene">
+      <UniqueIdentifier>{fe572fe2-2853-4fc7-9b15-3e9ff4b99b2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\02.Mouse">
+      <UniqueIdentifier>{b5767c9b-7a51-4076-8f34-35897d678dd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\03. Button">
+      <UniqueIdentifier>{7eab22fd-bd4f-434a-a83a-b60b2ecd049a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\04. LobbyEntry">
+      <UniqueIdentifier>{69a4160a-976f-4fff-a0a2-38cca382b43a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\05. InGameObjects">
+      <UniqueIdentifier>{d65b62c2-5da4-455f-aefd-2d9193df48e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Manager">
+      <UniqueIdentifier>{57862d09-3a5f-45ed-9cce-5e38cc453872}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Manager\00. SceneManager">
+      <UniqueIdentifier>{c2111593-f388-4948-b7fb-a6657a0978c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Manager\01. AssetManager">
+      <UniqueIdentifier>{ad2d8340-547f-43d7-b126-316a0b1c8d50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Manager\02. ObjectManager">
+      <UniqueIdentifier>{ce74510f-d1f5-4f0d-9f00-e8ddf7e42c69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Manager\03. KeyManager">
+      <UniqueIdentifier>{37e4c968-b74d-4e72-b325-7da2350252ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Network">
+      <UniqueIdentifier>{a0009c0c-66c3-4e3a-b3c7-2c597df0baf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Network\00. Socket">
+      <UniqueIdentifier>{d6e141e1-4d5a-4ce4-aaae-f99dba832309}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Network\01.Packet">
+      <UniqueIdentifier>{c9a7a56d-1c83-425d-9976-0db7c3b3c8eb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="z.code\framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\etc\pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Scene\CMainGame.h">
+      <Filter>00. MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\etc\Define.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Object\CObj.h">
+      <Filter>01. Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Object\CPlayer.h">
+      <Filter>01. Obj\00. Player</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Scene\CScene.h">
+      <Filter>01. Obj\01.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Manager\SceneManager.h">
+      <Filter>02. Manager\00. SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Manager\AssetManager.h">
+      <Filter>02. Manager\01. AssetManager</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Scene\TitleScene.h">
+      <Filter>01. Obj\01.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Asset\CAsset.h">
+      <Filter>02. Manager\01. AssetManager</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Object\CMouse.h">
+      <Filter>01. Obj\02.Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Manager\ObjectManager.h">
+      <Filter>02. Manager\02. ObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Object\CButton.h">
+      <Filter>01. Obj\03. Button</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Scene\LobbyScene.h">
+      <Filter>01. Obj\01.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Manager\KeyManager.h">
+      <Filter>02. Manager\03. KeyManager</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Object\CLeaderBoardEntry.h">
+      <Filter>01. Obj\04. LobbyEntry</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Scene\InGameScene.h">
+      <Filter>01. Obj\01.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Object\CPannel.h">
+      <Filter>01. Obj\05. InGameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Manager\NetworkManager.h">
+      <Filter>03. Network</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Network\ClientSocket.h">
+      <Filter>03. Network\00. Socket</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Network\ClientPacket.h">
+      <Filter>03. Network\01.Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Network\ServerPacket.h">
+      <Filter>03. Network\01.Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Network\NetworkDefine.h">
+      <Filter>03. Network</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Scene\EndScene.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Asset\DefaultWindow.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Manager\CSoundMgr.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="z.code\Object\TimeDisplay.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="z.code\Network\pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Scene\CMainGame.cpp">
+      <Filter>00. MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Object\CObj.cpp">
+      <Filter>01. Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Object\CPlayer.cpp">
+      <Filter>01. Obj\00. Player</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Scene\CScene.cpp">
+      <Filter>01. Obj\01.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Manager\SceneManager.cpp">
+      <Filter>02. Manager\00. SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Manager\AssetManager.cpp">
+      <Filter>02. Manager\01. AssetManager</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Scene\TitleScene.cpp">
+      <Filter>01. Obj\01.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Asset\CAsset.cpp">
+      <Filter>02. Manager\01. AssetManager</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Object\CMouse.cpp">
+      <Filter>01. Obj\02.Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Manager\ObjectManager.cpp">
+      <Filter>02. Manager\02. ObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Object\CButton.cpp">
+      <Filter>01. Obj\03. Button</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Scene\LobbyScene.cpp">
+      <Filter>01. Obj\01.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Manager\KeyManager.cpp">
+      <Filter>02. Manager\03. KeyManager</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Object\CLeaderBoardEntry.cpp">
+      <Filter>01. Obj\04. LobbyEntry</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Scene\InGameScene.cpp">
+      <Filter>01. Obj\01.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Object\CPannel.cpp">
+      <Filter>01. Obj\05. InGameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Manager\NetworkManager.cpp">
+      <Filter>03. Network</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Network\ClientSocket.cpp">
+      <Filter>03. Network\00. Socket</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Scene\EndScene.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Asset\DefaultWindow.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Manager\CSoundMgr.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="z.code\Object\TimeDisplay.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="z.code\DefaultWindow.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="z.code\small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="z.code\DefaultWindow.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

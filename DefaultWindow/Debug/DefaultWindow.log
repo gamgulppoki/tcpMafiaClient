@@ -1,0 +1,92 @@
+﻿  pch.cpp
+  SoundManager.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SoundManager.cpp(40,3): warning C4150: 불완전한 형식 'FMOD_SYSTEM'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\etc\fmod.h(63,16): message : 'FMOD_SYSTEM' 선언을 참조하십시오.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SoundManager.cpp(47,3): warning C4150: 불완전한 형식 'FMOD_SOUND'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\etc\fmod.h(64,16): message : 'FMOD_SOUND' 선언을 참조하십시오.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SoundManager.cpp(54,3): warning C4150: 불완전한 형식 'FMOD_SOUND'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\etc\fmod.h(64,16): message : 'FMOD_SOUND' 선언을 참조하십시오.
+  AssetManager.cpp
+  CAsset.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Asset\CAsset.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CButton.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(43,4): warning C4150: 불완전한 형식 'CScene'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(5,7): message : 'CScene' 선언을 참조하십시오.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(48,4): warning C4150: 불완전한 형식 'CScene'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(5,7): message : 'CScene' 선언을 참조하십시오.
+  ClientSocket.cpp
+  CMainGame.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(43,4): warning C4150: 불완전한 형식 'CScene'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(5,7): message : 'CScene' 선언을 참조하십시오.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(48,4): warning C4150: 불완전한 형식 'CScene'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(5,7): message : 'CScene' 선언을 참조하십시오.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CMouse.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CMouse.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CMouse.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CObj.cpp
+  CPannel.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(75,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(74,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(102,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(101,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(116,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(115,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(130,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(129,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(144,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(143,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(162,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(161,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(176,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(175,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(190,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(189,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(252,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(253,30): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(254,24): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CPannel.cpp(255,29): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPlayer.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CMouse.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CScene.cpp
+  DefaultWindow.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(43,4): warning C4150: 불완전한 형식 'CScene'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(5,7): message : 'CScene' 선언을 참조하십시오.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(48,4): warning C4150: 불완전한 형식 'CScene'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(5,7): message : 'CScene' 선언을 참조하십시오.
+  EndScene.cpp
+  InGameScene.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Scene\InGameScene.cpp(43,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Scene\InGameScene.cpp(44,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Scene\InGameScene.cpp(50,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Scene\InGameScene.cpp(51,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Scene\InGameScene.cpp(59,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  KeyManager.cpp
+  CLeaderBoardEntry.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CLeaderBoardEntry.cpp(91,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CLeaderBoardEntry.cpp(92,24): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CLeaderBoardEntry.cpp(93,29): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Object\CLeaderBoardEntry.cpp(94,30): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LobbyScene.cpp
+  ObjectManager.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\ObjectManager.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(43,4): warning C4150: 불완전한 형식 'CScene'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(5,7): message : 'CScene' 선언을 참조하십시오.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(48,4): warning C4150: 불완전한 형식 'CScene'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\DefaultWindow\z.code\Manager\SceneManager.h(5,7): message : 'CScene' 선언을 참조하십시오.
+  NetworkManager.cpp
+  SceneManager.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  TitleScene.cpp
+  코드를 생성하고 있습니다...
+SoundManager.obj : error LNK2019: _FMOD_System_Create@4"public: void __thiscall SoundManager::Initialize(void)" (?Initialize@SoundManager@@QAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: _FMOD_System_SetOutput@8"public: void __thiscall SoundManager::Initialize(void)" (?Initialize@SoundManager@@QAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: _FMOD_System_Init@16"public: void __thiscall SoundManager::Initialize(void)" (?Initialize@SoundManager@@QAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: _FMOD_System_Update@4"public: void __thiscall SoundManager::Load_Bgm(void)" (?Load_Bgm@SoundManager@@QAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: _FMOD_System_CreateSound@20"public: void __thiscall SoundManager::Load_Bgm(void)" (?Load_Bgm@SoundManager@@QAEXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: _FMOD_System_PlaySound@20"public: void __thiscall SoundManager::PlayBGM(enum EBgmID,float)" (?PlayBGM@SoundManager@@QAEXW4EBgmID@@M@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: _FMOD_Channel_SetVolume@8"public: void __thiscall SoundManager::PlayBGM(enum EBgmID,float)" (?PlayBGM@SoundManager@@QAEXW4EBgmID@@M@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: _FMOD_Channel_IsPlaying@8"public: void __thiscall SoundManager::PlaySoundW(enum ESoundEffectID,enum ESoundType,float)" (?PlaySoundW@SoundManager@@QAEXW4ESoundEffectID@@W4ESoundType@@M@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: _FMOD_Channel_SetMode@8"public: void __thiscall SoundManager::PlayBGM(enum EBgmID,float)" (?PlayBGM@SoundManager@@QAEXW4EBgmID@@M@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+fmod_vc.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client_Last\Debug\DefaultWindow.exe : fatal error LNK1120: 9개의 확인할 수 없는 외부 참조입니다.

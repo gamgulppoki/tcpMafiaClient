@@ -1,0 +1,7 @@
+# Visual Studio cache / precompiled headers (GitHub 100MB limit)
+.vs/
+*.ipch
+*.pch
+
+# 이전에 DefaultWindow 폴더에 남아 있던 별도 git 저장소 (Mafia42_TcpServer)
+DefaultWindow/.git_old/

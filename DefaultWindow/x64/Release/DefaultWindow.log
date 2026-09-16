@@ -1,0 +1,57 @@
+﻿  pch.cpp
+  AssetManager.cpp
+  CAsset.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CAsset.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CButton.cpp
+  CInputBox.cpp
+  CMainGame.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CMouse.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CMouse.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CMouse.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CObj.cpp
+  CPannel.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(76,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(75,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(103,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(102,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(117,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(116,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(131,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(130,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(145,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(144,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(163,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(162,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(177,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(176,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(191,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(190,4): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(231,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(232,30): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(233,24): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CPannel.cpp(234,29): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPlayer.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CMouse.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CScene.cpp
+  DefaultWindow.cpp
+  InGameScene.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\InGameScene.cpp(35,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\InGameScene.cpp(36,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\InGameScene.cpp(42,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\InGameScene.cpp(43,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyManager.cpp
+  CLeaderBoardEntry.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CLeaderBoardEntry.cpp(93,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CLeaderBoardEntry.cpp(94,24): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CLeaderBoardEntry.cpp(95,29): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\CLeaderBoardEntry.cpp(96,30): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LobbyScene.cpp
+  ObjectManager.cpp
+C:\Users\sarah\Desktop\API시연회\Mafia_Client\DefaultWindow\ObjectManager.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  SceneManager.cpp
+  TitleScene.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 599 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  DefaultWindow.vcxproj -> C:\Users\sarah\Desktop\API시연회\Mafia_Client\x64\Release\DefaultWindow.exe
